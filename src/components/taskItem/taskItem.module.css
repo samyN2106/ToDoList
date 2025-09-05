@@ -1,0 +1,24 @@
+.li_defaut {
+  background: transparent;
+  border: 1px solid #3f3e3e;
+  border-radius: 10px;
+}
+.li_defaut:hover {
+  background: #28292a;
+}
+
+.li_succes {
+  background: #243524;
+}
+.li_succes .p_titre {
+  text-decoration: line-through;
+}
+
+.li_succes .spanNum {
+  color: white;
+  background: #365036;
+}
+
+.li_succes:hover {
+  background: #203320;
+}

@@ -1,0 +1,9 @@
+input::placeholder {
+  color: #7a808a;
+  font-weight: 600;
+}
+
+.blocForm {
+  box-shadow: 1px 3px 20px 10px #263644;
+  border-radius: 8px;
+}

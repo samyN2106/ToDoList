@@ -1,0 +1,10 @@
+.blocPrincipal {
+  box-shadow: 1px 3px 10px 8px #211f1f;
+  border-radius: 8px;
+}
+
+.li_defaut {
+  background: transparent;
+  border: 1px solid #3f3e3e;
+  border-radius: 10px;
+}
